@@ -1,0 +1,2 @@
+# MJ-scrapper
+Scrapper MidJourney
